@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WearOS Altimiter"
+rootProject.name = "WearOS Altimeter"
 include(":app")
